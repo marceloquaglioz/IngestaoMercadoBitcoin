@@ -12,4 +12,3 @@ test:
 ## CI/CD
 ci-test:
 	poetry run python -m pytest
-	
