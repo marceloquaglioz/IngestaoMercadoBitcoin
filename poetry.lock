@@ -1026,3 +1026,4 @@ zappa = [
     {file = "zappa-0.50.0-py3-none-any.whl", hash = "sha256:1c6b95ae2cd9fa22a967d2b247a6b7959387e9b42789e532fb07cff149aeef6b"},
     {file = "zappa-0.50.0.tar.gz", hash = "sha256:e37b987b7ee5cec9eb4d4c1b899e6b05020f0472b00de2783da41912d2163b01"},
 ]
+
