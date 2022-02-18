@@ -1,1 +1,2 @@
 requests
+troposphere<3
