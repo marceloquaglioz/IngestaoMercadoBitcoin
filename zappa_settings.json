@@ -10,6 +10,8 @@
            "function": "mercado_bitcoin.lambda_function.lambda_handler",
            "expression": "rate(1 minute)"
        }],
+        "apigateway_description": "My funky application!",
+        "lambda_description": "Your Description",
         "memory_size": 128,
         "apigateway_enable": false
     },
